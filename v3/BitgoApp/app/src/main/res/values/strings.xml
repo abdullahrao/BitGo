@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BitGo</string>
+    <string name="title_activity_challenge">challengeActivity</string>
+</resources>
